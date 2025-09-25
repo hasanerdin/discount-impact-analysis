@@ -41,10 +41,3 @@ Final presentation of results
 🚀 Conclusion
 
 Our analysis provided the company with a data-driven perspective on the trade-offs of discounts, helping balance short-term sales growth with long-term revenue sustainability.
-
-📂 Repository Structure
-
-├── data/           # Raw and cleaned datasets  
-├── notebooks/      # Jupyter notebooks for analysis  
-├── visuals/        # Graphs and charts from EDA  
-├── README.md       # Project documentation (this file)  
